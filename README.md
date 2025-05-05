@@ -44,3 +44,6 @@ Este proyecto se centra en probar PSO en funciones con múltiples mínimos, como
 Cada una de estas funciones presenta desafíos distintos para el algoritmo, desde múltiples óptimos locales hasta topologías de difícil convergencia.
 
 ---
+
+## 🏆 Resultados
+![Resultados](assets/results.png)
